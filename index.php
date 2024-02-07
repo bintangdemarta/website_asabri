@@ -227,17 +227,9 @@ data-bs-ride="carousel">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"></script>
 </body>
 <footer>
-    <div class="container" style="color: #002E61;">
-        <p class="text-black bg-white">.text-black</p>
-        <p class="text-white bg-dark">.text-white</p>
-        <p class="text-black-50 bg-white">.text-black-50</p>
-        <p class="text-white-50 bg-dark">.text-white-50</p>
-    </div>
-
     <div class="ratio ratio-4x3 d-flex align-items-center justify-content-center">
         <p class="text-center" st>4x3, then 2x1</p>
     </div>
-
 </div>
 <footer>
 </html>
